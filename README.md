@@ -24,10 +24,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/2XF0DCA.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
     Copyright 2020 Muhsin Wahi-Anwar
